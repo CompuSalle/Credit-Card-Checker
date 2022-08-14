@@ -24,3 +24,7 @@ This algorithm works by:
 
 2. Add all digit sum and check by mod 10 using this formula:
     - 10 – (sum mod 10), if = 0 then pass else it’s not valid.
+    
+    
+    
+[credit card generator](https://www.vccgenerator.org)
